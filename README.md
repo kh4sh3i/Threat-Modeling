@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="/img/logo.png" alt="" width="140px;"></a>
+  <a href=""><img src="/img/logo.png" alt="" width="160px;"></a>
   <br>
   <img src="https://img.shields.io/badge/PRs-welcome-blue">
   <img src="https://img.shields.io/github/last-commit/kh4sh3i/Threat-Modeling">
@@ -21,6 +21,10 @@ At the highest levels, when we threat model, we ask four key questions:
 * What can go wrong?
 * What are we going to do about it?
 * Did we do a good enough job?
+
+<h1 align="center">
+  <img src="/img/img1.png" alt="" width="400px;">
+</h1>
 
 # Tools
 Tools which helps in threat modelling.
