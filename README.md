@@ -33,7 +33,7 @@ Tools which helps in threat modelling.
 * [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
 ## Paid tools
-[Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application.
+* [Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application.
 
 ## resource 
 [The Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
