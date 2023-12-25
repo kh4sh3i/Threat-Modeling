@@ -1,6 +1,5 @@
 <h1 align="center">
-  <br>
-  <a href=""><img src="/img/logo.png" alt="" width="160px;"></a>
+  <img src="/img/logo.png" alt="" width="160px;">
   <br>
   <img src="https://img.shields.io/badge/PRs-welcome-blue">
   <img src="https://img.shields.io/github/last-commit/kh4sh3i/Threat-Modeling">
