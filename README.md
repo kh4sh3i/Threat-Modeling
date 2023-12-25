@@ -42,7 +42,7 @@ At the highest levels, when we threat model, we ask four key questions:
   * upload issuse to jira
   * use iriusrisk to synk issue with azure devops
 
-by default add countermeasures ```recommended``` we can user security standard like OWASP & NIST to change status to ```required```
+by default all countermeasures type is :```recommended``` we can user security standard like OWASP & NIST to change status to ```required```
 
 ```
 recommended -> required -> implemented
