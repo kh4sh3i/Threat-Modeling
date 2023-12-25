@@ -22,7 +22,7 @@ At the highest levels, when we threat model, we ask four key questions:
 * Did we do a good enough job?
 
 <h1 align="center">
-  <img src="/img/img1.png" alt="" width="400px;">
+  <img src="/img/img1.png" alt="" width="800px;">
 </h1>
 
 # Tools
