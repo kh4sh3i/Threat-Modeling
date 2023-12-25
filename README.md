@@ -25,6 +25,23 @@ At the highest levels, when we threat model, we ask four key questions:
   <img src="/img/img1.png" alt="" width="800px;">
 </h1>
 
+## Tips
+* What are we working on?
+  * create project
+  * create trusted zone
+  * add all component to zone
+  * add data flow between component
+
+* What can go wrong?
+  * find all threats manual
+  * we can use iriusrisk for automation find threat
+* What are we going to do about it?
+  * review weakness
+  * find countermeasures
+* Did we do a good enough job?
+  * upload issuse to jira
+  * use iriusrisk to synk issue with azure devops
+
 # Tools
 Tools which helps in threat modelling.
 
